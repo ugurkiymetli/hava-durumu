@@ -1,0 +1,22 @@
+#searchBtn {
+	transition: color .2s ease-in;
+}
+
+#searchBtn:hover {
+	cursor: pointer;
+}
+
+i {
+	font-size: 3rem;
+	transition: all .1s ease-in;
+}
+
+i:hover {
+	text-shadow: 1px 1px 4px #000000;
+}
+.shadow-css{
+	transition: all .1s ease-in;
+}
+.shadow-css:hover{
+	box-shadow: 0 1rem 3rem rgba(0,0,0,.175)!important;
+}
